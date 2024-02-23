@@ -1,2 +1,2 @@
-# [OpenHumanAI.github.io](https://openhumanai.github.io/)
+# [openhumanai.github.io](https://openhumanai.github.io/)
 OpenHumanAI
